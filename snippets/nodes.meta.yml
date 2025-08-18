@@ -377,7 +377,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 9,10|️ @FreakConfig
+- name: '9,10|🛡️ @FreakConfig #1'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -554,14 +554,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 10|ا ها  ر ن ترا💎 Config_Rayegan@
-  password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
-  port: 31468
-  server: 77.223.214.193
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '10|美国10 付费推荐：https://dafei.de #1'
   password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
   port: 45000
@@ -669,7 +661,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '10|🛡️ @FreakConfig #1'
+- name: '10|🛡️ @FreakConfig #2'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
