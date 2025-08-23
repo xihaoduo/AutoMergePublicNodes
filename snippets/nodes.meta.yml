@@ -728,7 +728,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '10|Telegram:@config_proxy 😍 #1'
+- name: '10|@Daily_Configs #2'
   password: NjEkAYYNqFKUbrksyW1COBtdpU
   port: 2428
   server: 47.239.220.214
