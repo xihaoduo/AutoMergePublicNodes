@@ -239,7 +239,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9,10|@Daily_Configs
+- name: '9,10|@Daily_Configs #1'
   obfs: salamander
   obfs-password: aA@8795
   password: FREEEE_7.87958795
@@ -297,7 +297,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9,10|@Daily_Configs #1'
+- name: '9,10|@Daily_Configs #3'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -346,7 +346,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '9,10|@Daily_Configs #2'
+- name: '9,10|@Daily_Configs #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -457,7 +457,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '9,10|@Daily_Configs #3'
+- name: '9,10|@Daily_Configs #5'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -553,14 +553,6 @@ proxies:
   sni: hg.myyfqh.tech
   tls: false
   type: hysteria2
-- name: 10| @Cyber_Ta🌐
-  password: 0a0f1f4a-40d9-47b4-aca5-0b281daea3bb
-  port: 443
-  server: us.myyfqh.tech
-  skip-cert-verify: false
-  sni: us.myyfqh.tech
-  tls: false
-  type: hysteria2
 - name: 10|none
   password: 1045aedf-053c-4585-875d-e2fc3f3ea6dd
   port: 43429
@@ -643,12 +635,19 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: '10| @Cyber_Ta🌐 #1'
+- name: 10| @Cyber_Ta🌐
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
   server: 40.233.73.221
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|Telegram:@config_proxy '
+  password: 8b583292-c936-4723-a8c7-8adb8ecf5044
+  port: 22154
+  server: hsxjp.huasuan666.top
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 10|→ @Hddify
@@ -727,6 +726,13 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 10|Telegram:@config_proxy 😍
+  password: NjEkAYYNqFKUbrksyW1COBtdpU
+  port: 2428
+  server: 47.239.220.214
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '10|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #1'
