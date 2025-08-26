@@ -161,7 +161,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9,10| 𝗝𝗼𝗶𝗻 ➠ @Viturey
+- name: '9,10|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #3'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -194,22 +194,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: '10|@V2rayNG3 #1'
-  password: 15cca331-9e92-449d-93b0-25f82203595f
-  port: 20309
-  server: gb.gomeow.online
-  skip-cert-verify: false
-  sni: gb.gomeow.online
-  tls: false
-  type: hysteria2
-- name: 10| @Hddify
-  password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
-  port: 43429
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #2'
   obfs: salamander
   obfs-password: de8287cd33b05fa3
   password: 22f2c759db51b3d0
@@ -243,7 +227,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #3'
+- name: '10|@V2rayNG3 #2'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
   server: s15.serv00.com
@@ -258,15 +242,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 10|→ @Hddify
-  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
-  port: 43429
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '10|@V2rayNG3 #4'
+- name: '10|@V2rayNG3 #3'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
   password: '@azadi_az_inja_migzare'
@@ -276,7 +252,7 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #5'
+- name: '10|@V2rayNG3 #4'
   obfs: salamander
   obfs-password: bipbip
   password: AtTK3tiEA0
@@ -285,7 +261,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #6'
+- name: '10|@V2rayNG3 #5'
   obfs: salamander
   obfs-password: bleepbloop
   password: AtTK3tiEA0
@@ -294,7 +270,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #7'
+- name: '10|@V2rayNG3 #6'
   obfs: salamander
   obfs-password: bluhbluh
   password: AtTK3tiEA0
@@ -443,7 +419,7 @@ proxies:
   sni: hsfg.huasuan666.top
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #8'
+- name: '10|@V2rayNG3 #7'
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
@@ -467,7 +443,7 @@ proxies:
   sni: hsyg.huasuan666.top
   tls: false
   type: hysteria2
-- name: '10|@V2rayNG3 #9'
+- name: '10|@V2rayNG3 #8'
   obfs: salamander
   obfs-password: dbc688df29e582d3
   password: f8e40931bbb827df
