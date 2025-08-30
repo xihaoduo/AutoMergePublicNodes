@@ -6,14 +6,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|Hy2-3
-  password: 1c473b13-502d-47eb-8cf8-70a38d56c5bd
-  port: 443
-  server: jp1.interld123456789.com
-  skip-cert-verify: true
-  sni: 1231231.1234567890spcloud.com
-  tls: false
-  type: hysteria2
 - name: 7|日本
   password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
   port: 443
@@ -142,70 +134,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|国
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: dg.dimoyun.top
-  skip-cert-verify: true
-  sni: dg.dimoyun.top
-  tls: false
-  type: hysteria2
-- name: 7|1
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: els1.dimoyun.top
-  skip-cert-verify: true
-  sni: els1.dimoyun.top
-  tls: false
-  type: hysteria2
-- name: 7|俄罗斯2
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: els2.dimoyun.top
-  skip-cert-verify: true
-  sni: els1.dimoyun.top
-  tls: false
-  type: hysteria2
-- name: 7|美国 @vlees_v2rayng
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: mg.dimoyun.top
-  skip-cert-verify: true
-  sni: mg.dimoyun.top
-  tls: false
-  type: hysteria2
-- name: '7|日本 #1'
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: rb.dimoyun.top
-  skip-cert-verify: true
-  sni: rb.dimoyun.top
-  tls: false
-  type: hysteria2
-- name: '7|香港 #1'
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: xg.dimoyun.top
-  skip-cert-verify: true
-  sni: xg.dimoyun.top
-  tls: false
-  type: hysteria2
-- name: 7|香港2@vlees_v2rayng
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: xg2.dimoyun.top
-  skip-cert-verify: true
-  sni: xg2.dimoyun.top
-  tls: false
-  type: hysteria2
-- name: 7|新加坡
-  password: 66975a45-dd40-4854-ba7b-80157a38dd64
-  port: 40001
-  server: xjp.dimoyun.top
-  skip-cert-verify: true
-  sni: xjp.dimoyun.top
-  tls: false
-  type: hysteria2
 - name: '7|Channel id: @singbox1🇺🇸'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
@@ -308,7 +236,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '7|香港 #2'
+- name: '7|香港 #1'
   password: XK52yierGckONMJWbJnuskD3unI
   port: 12854
   server: 47.242.195.121
@@ -348,7 +276,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '7|新加坡 #1'
+- name: 7|新加坡
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056
   server: sg3.eyucdn.xyz
@@ -433,7 +361,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '7|新加坡 #2'
+- name: '7|新加坡 #1'
   password: lPK6OZ9ouqyXrCghO6ohUbbN5g
   port: 33131
   server: 8.222.183.55
@@ -441,7 +369,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|日本 #2'
+- name: '7|日本 #1'
   password: oATw4IRtuUOozpOLFflGnWjtg
   port: 18219
   server: 52.193.71.150
@@ -473,7 +401,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|新加坡 #3'
+- name: '7|新加坡 #2'
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
   server: 13.212.75.22
