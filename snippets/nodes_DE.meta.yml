@@ -1,4 +1,14 @@
 proxies:
+- name: 9|🇩🇪@FreakConfig
+  obfs: salamander
+  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
+  password: dailyconfigs
+  port: 443
+  server: 176.124.204.248
+  skip-cert-verify: true
+  sni: ubuntu com
+  tls: false
+  type: hysteria2
 - name: 13|DE_speednode_0014
   network: ws
   password: slch2024

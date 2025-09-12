@@ -1,5 +1,13 @@
 proxies:
-- name: 9|@Selinc
+- name: '8|Channel id: @ShadowProxy66🇯🇵'
+  password: fabd2b79-693a-4a37-827c-6d299e8813b1
+  port: 443
+  server: 133.18.163.202
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: 9|@FreakConfig
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -7,7 +15,61 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 9|گ ا ت ر ن را💎 Config_Rayegan@
+- name: 9|@HiByeVPNN
+  password: 77b85b4f-8f73-495c-b919-a8fb386ca541
+  port: 22160
+  server: hsels.huasuan666.top
+  skip-cert-verify: true
+  sni: hsels.huasuan666.top
+  tls: false
+  type: hysteria2
+- name: 9|   ر ن را💎 Config_Rayegan@
+  password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
+  port: 31468
+  server: 77.223.214.193
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 9|AZADIV2RAYY SW 🇪
+  obfs: salamander
+  obfs-password: U1wBrYQyFm
+  password: 80747420-96c4-4a2f-83e6-eea4e46beb09
+  port: 20335
+  server: 70.34.215.221
+  skip-cert-verify: true
+  sni: drhystuichdfy.samanidempire.org
+  tls: false
+  type: hysteria2
+- name: '9|@FreakConfig #1'
+  password: 934766f0-204c-42be-8cf7-9afc2a8b5eaf
+  port: 22156
+  server: hsyg.huasuan666.top
+  skip-cert-verify: true
+  sni: hsyg.huasuan666.top
+  tls: false
+  type: hysteria2
+- name: 9|🇱@FreakConfig
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: 9|@V2RAYNG_1378
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 35000
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 9|کانفیگ های بیشتر در چنل تلگرام...
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -25,6 +87,66 @@ proxies:
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 9|🇪@FreakConfig
+  obfs: salamander
+  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
+  password: dailyconfigs
+  port: 443
+  server: 176.124.204.248
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: 9|🇩🇪@FreakConfig
+  obfs: salamander
+  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
+  password: dailyconfigs
+  port: 443
+  server: 176.124.204.248
+  skip-cert-verify: true
+  sni: ubuntu com
+  tls: false
+  type: hysteria2
+- name: '9|@Selinc #1'
+  password: dongtaiwang.com
+  port: 63015
+  server: 108.181.5.130
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
+- name: 9|@DropCube⚡❤️‍🔥
+  password: dongtaiwang.com
+  port: 5355
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '9|@FreakConfig #2'
+  password: miaoge110
+  port: 12687
+  server: 45.58.38.153
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '9|@Selinc #2'
+  password: n9OgQprayM
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: '9|@Selinc #3'
+  password: zPb5RRsckD
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
