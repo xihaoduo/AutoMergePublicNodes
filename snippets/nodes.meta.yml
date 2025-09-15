@@ -137,6 +137,14 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: 10|@vpnserverrr
+  password: c9edf5cb-67ef-4440-8684-b3d301df6488
+  port: 21053
+  server: yue-ru.yuetoto.net
+  skip-cert-verify: false
+  sni: yue-ru.yuetoto.net
+  tls: false
+  type: hysteria2
 - name: 10|🇪@FreakConfig
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
